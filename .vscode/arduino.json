@@ -1,0 +1,7 @@
+{
+    "sketch": "elec-arduino-servo-tester.ino",
+    "port": "COM3",
+    "board": "nulllab:avr:Nulllab_Nano",
+    "output": "../build",
+    "intelliSenseGen": "global"
+}
